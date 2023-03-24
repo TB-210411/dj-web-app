@@ -1,0 +1,38 @@
+.heading{
+    font-size: 25px;
+    width: 100%;
+    margin: 0px;
+    background-color: cornflowerblue;
+    color: white;
+
+}
+.note{
+    font-size: 13px;
+
+}
+body{
+    background-size: cover;
+    font-family: fantasy;
+
+}
+
+
+
+
+
+canvas{
+    border: 5px solid white;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px lightblue;
+    margin-top: 30px;
+}
+
+.heading2{
+    background-color: red;
+    color: white;
+    margin-top: 30px;
+    font-size: 22px;
+}
+.heading:hover{
+    color: white;
+}
